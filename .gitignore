@@ -1,0 +1,30 @@
+# Ejecutables
+minikernel
+*.exe
+*.out
+
+# Archivos objeto
+*.o
+obj/
+
+# Archivos de depuración
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Archivos del editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación
+*.a
+*.so
+*.dylib
