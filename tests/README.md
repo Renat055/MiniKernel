@@ -16,7 +16,6 @@ Este directorio está reservado para pruebas unitarias y de integración del sis
 3. **Test de Scheduler**
    - Validar Round Robin con diferentes quantums
    - Probar con diferentes números de CPUs
-   - Verificar fairness del algoritmo
 
 4. **Test de Métricas**
    - Validar cálculos de tiempo de espera
