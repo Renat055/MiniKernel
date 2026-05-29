@@ -23,6 +23,11 @@ Este directorio está reservado para pruebas unitarias y de integración del sis
    - Verificar throughput
    - Comprobar tiempo de respuesta
 
+5. **Test de Sincronización**
+   - Validar sincronización entre hilos
+   - Verificar uso correcto de mutex/semaforos
+   - Detectar condiciones de carrera y deadlocks
+
 ## Ejecución de Tests
 
 ```bash
